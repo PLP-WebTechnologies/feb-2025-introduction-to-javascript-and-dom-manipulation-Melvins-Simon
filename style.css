@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#dynamic-container p {
+  color: green;
+  font-weight: bold;
+}
